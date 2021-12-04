@@ -1,0 +1,51 @@
+C:\Users\Randula Mawaththa\Desktop\project_pos\project_pos\bin\Debug\project_pos.exe.config
+C:\Users\Randula Mawaththa\Desktop\project_pos\project_pos\bin\Debug\project_pos.exe
+C:\Users\Randula Mawaththa\Desktop\project_pos\project_pos\bin\Debug\project_pos.pdb
+C:\Users\Randula Mawaththa\Desktop\project_pos\project_pos\obj\Debug\project_pos.csprojResolveAssemblyReference.cache
+C:\Users\Randula Mawaththa\Desktop\project_pos\project_pos\obj\Debug\project_pos.Properties.Resources.resources
+C:\Users\Randula Mawaththa\Desktop\project_pos\project_pos\obj\Debug\project_pos.csproj.GenerateResource.Cache
+C:\Users\Randula Mawaththa\Desktop\project_pos\project_pos\obj\Debug\project_pos.exe
+C:\Users\Randula Mawaththa\Desktop\project_pos\project_pos\obj\Debug\project_pos.pdb
+C:\Users\Randula Mawaththa\Desktop\project_pos\project_pos\obj\Debug\project_pos.frm_main.resources
+C:\Users\Randula Mawaththa\Desktop\project_pos\project_pos\obj\Debug\project_pos.frm_abu.resources
+C:\Users\Randula Mawaththa\Desktop\project_pos\project_pos\obj\Debug\project_pos.frm_login.resources
+C:\Users\Randula Mawaththa\Desktop\project_pos\project_pos\obj\Debug\project_pos.frm_menu.resources
+C:\Users\Randula Mawaththa\Desktop\project_pos\project_pos\obj\Debug\project_pos.frm_emp.resources
+C:\Users\Randula Mawaththa\Desktop\project_pos\project_pos\obj\Debug\project_pos.frm_emp_view.resources
+C:\Users\Randula Mawaththa\Desktop\project_pos\project_pos\obj\Debug\project_pos.frm_emp_pwcs.resources
+C:\Users\Randula Mawaththa\Desktop\project_pos\project_pos\obj\Debug\project_pos.frm_items.resources
+C:\Users\Randula Mawaththa\Desktop\project_pos - Copy\project_pos\bin\Debug\project_pos.exe.config
+C:\Users\Randula Mawaththa\Desktop\project_pos - Copy\project_pos\obj\Debug\project_pos.exe
+C:\Users\Randula Mawaththa\Desktop\project_pos - Copy\project_pos\obj\Debug\project_pos.pdb
+C:\Users\Randula Mawaththa\Desktop\project_pos - Copy\project_pos\bin\Debug\project_pos.exe
+C:\Users\Randula Mawaththa\Desktop\project_pos - Copy\project_pos\bin\Debug\project_pos.pdb
+C:\Users\Randula Mawaththa\Desktop\project_pos - Copy\project_pos\obj\Debug\project_pos.csprojResolveAssemblyReference.cache
+C:\Users\Randula Mawaththa\Desktop\project_pos - Copy\project_pos\obj\Debug\project_pos.frm_emp.resources
+C:\Users\Randula Mawaththa\Desktop\project_pos - Copy\project_pos\obj\Debug\project_pos.frm_emp_pwcs.resources
+C:\Users\Randula Mawaththa\Desktop\project_pos - Copy\project_pos\obj\Debug\project_pos.frm_emp_view.resources
+C:\Users\Randula Mawaththa\Desktop\project_pos - Copy\project_pos\obj\Debug\project_pos.frm_items.resources
+C:\Users\Randula Mawaththa\Desktop\project_pos - Copy\project_pos\obj\Debug\project_pos.frm_login.resources
+C:\Users\Randula Mawaththa\Desktop\project_pos - Copy\project_pos\obj\Debug\project_pos.frm_main.resources
+C:\Users\Randula Mawaththa\Desktop\project_pos - Copy\project_pos\obj\Debug\project_pos.frm_abu.resources
+C:\Users\Randula Mawaththa\Desktop\project_pos - Copy\project_pos\obj\Debug\project_pos.frm_menu.resources
+C:\Users\Randula Mawaththa\Desktop\project_pos - Copy\project_pos\obj\Debug\project_pos.Properties.Resources.resources
+C:\Users\Randula Mawaththa\Desktop\project_pos - Copy\project_pos\obj\Debug\project_pos.csproj.GenerateResource.Cache
+C:\Users\Randula Mawaththa\Desktop\project_pos\project_pos\obj\Debug\project_pos.frm_pos.resources
+C:\Users\Randula Mawaththa\Desktop\project_pos - Copy\project_pos\obj\Debug\project_pos.frm_pos.resources
+E:\Work\Esoft\Software Engineering\Project\Project\project_pos\project_pos\bin\Debug\project_pos.exe.config
+E:\Work\Esoft\Software Engineering\Project\Project\project_pos\project_pos\obj\Debug\project_pos.exe
+E:\Work\Esoft\Software Engineering\Project\Project\project_pos\project_pos\obj\Debug\project_pos.pdb
+E:\Work\Esoft\Software Engineering\Project\Project\project_pos\project_pos\bin\Debug\project_pos.exe
+E:\Work\Esoft\Software Engineering\Project\Project\project_pos\project_pos\bin\Debug\project_pos.pdb
+E:\Work\Esoft\Software Engineering\Project\Project\project_pos\project_pos\obj\Debug\project_pos.csprojResolveAssemblyReference.cache
+E:\Work\Esoft\Software Engineering\Project\Project\project_pos\project_pos\obj\Debug\project_pos.frm_emp.resources
+E:\Work\Esoft\Software Engineering\Project\Project\project_pos\project_pos\obj\Debug\project_pos.frm_emp_pwcs.resources
+E:\Work\Esoft\Software Engineering\Project\Project\project_pos\project_pos\obj\Debug\project_pos.frm_emp_view.resources
+E:\Work\Esoft\Software Engineering\Project\Project\project_pos\project_pos\obj\Debug\project_pos.frm_items.resources
+E:\Work\Esoft\Software Engineering\Project\Project\project_pos\project_pos\obj\Debug\project_pos.frm_login.resources
+E:\Work\Esoft\Software Engineering\Project\Project\project_pos\project_pos\obj\Debug\project_pos.frm_main.resources
+E:\Work\Esoft\Software Engineering\Project\Project\project_pos\project_pos\obj\Debug\project_pos.frm_abu.resources
+E:\Work\Esoft\Software Engineering\Project\Project\project_pos\project_pos\obj\Debug\project_pos.frm_menu.resources
+E:\Work\Esoft\Software Engineering\Project\Project\project_pos\project_pos\obj\Debug\project_pos.frm_pos.resources
+E:\Work\Esoft\Software Engineering\Project\Project\project_pos\project_pos\obj\Debug\project_pos.Properties.Resources.resources
+E:\Work\Esoft\Software Engineering\Project\Project\project_pos\project_pos\obj\Debug\project_pos.csproj.GenerateResource.Cache
