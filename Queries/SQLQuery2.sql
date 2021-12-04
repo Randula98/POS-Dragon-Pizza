@@ -1,0 +1,15 @@
+
+USE se_db_pzdr;
+
+CREATE TABLE tbl_pos(
+	ID INT PRIMARY KEY NOT NULL,
+	Name VARCHAR(50) NULL,
+	Quantity INT NULL,
+	Price_Rs VARCHAR(5) NULL
+);
+
+SELECT * FROM tbl_pos;
+
+DROP TABLE tbl_pos;
+
+CREATE TABLE tbl_pos( ID INT PRIMARY KEY NOT NULL, Name VARCHAR(50) NULL, Quantity INT NULL, Price_Rs VARCHAR(5) NULL );
