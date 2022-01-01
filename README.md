@@ -30,7 +30,7 @@
 
 ## 🛡️<strong>Employee Management System</strong>
 
-<img src = "https://github.com/Randula98/POS-Dragon-Pizza/blob/main/src/employee.png">
+<img src = "https://github.com/Randula98/POS-Dragon-Pizza/blob/main/src/employees.png">
 
 ## 🛡️<strong>Point of Sale (POS)System</strong>
 
