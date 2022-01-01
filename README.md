@@ -22,7 +22,7 @@
 
 ## 🛡️<strong>Main Menu</strong>
 
-<img src = "https://github.com/Randula98/POS-Dragon-Pizza/blob/main/src/menu.png">
+<img src = "https://github.com/Randula98/POS-Dragon-Pizza/blob/main/src/mainmenu.png">
 
 ## 🛡️<strong>Item Management System</strong>
 
