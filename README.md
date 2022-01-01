@@ -1,6 +1,8 @@
 # POS-Dragon Pizza
 
-<strong><h3>Point of sale Software created using C# and SQL</h3></strong>
+<!-- <strong><h3>Point of sale Software created using C# and SQL</h3></strong> -->
+
+![banner](https://socialify.git.ci/Randula98/POS-Dragon-Pizza/image?description=1&font=Source%20Code%20Pro&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark)
 
 #
 
