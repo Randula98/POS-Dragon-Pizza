@@ -10,7 +10,7 @@
 ❄️ You can change the details in the database by loggin in to the system. 👨🏻‍💻<br>
 ❄️ In the POS system you can get a hard copy of the bill as an output.🧾 <br>
 
-#<h3>🛡️</h3>
+##🛡️
 
 <img src = "https://github.com/Randula98/POS-Dragon-Pizza/blob/main/src/home.png">
 
