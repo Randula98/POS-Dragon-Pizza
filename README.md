@@ -1,4 +1,4 @@
-# POS-Dragon-Pizza
+# POS-Dragon Pizza
 
 <strong><h3>Point of sale Software created using C# and SQL</h3></strong>
 
@@ -11,3 +11,8 @@
 ❄️ In the POS system you can get a hard copy of the bill as an output.🧾 <br>
 
 #
+
+<img src = "https://github.com/Randula98/POS-Dragon-Pizza/blob/main/src/home.png">
+
+
+<img src = "https://github.com/Randula98/POS-Dragon-Pizza/blob/main/src/home.png">
