@@ -14,28 +14,26 @@
 
 <img src = "https://github.com/Randula98/POS-Dragon-Pizza/blob/main/src/home.png">
 
-#
+## 🛡️<strong>Login Page</strong>
 
 <img src = "https://github.com/Randula98/POS-Dragon-Pizza/blob/main/src/main.png">
 
-#
+## 🛡️<strong>Main Menu</strong>
 
 <img src = "https://github.com/Randula98/POS-Dragon-Pizza/blob/main/src/menu.png">
 
-#
+## 🛡️<strong>Item Management System</strong>
 
 <img src = "https://github.com/Randula98/POS-Dragon-Pizza/blob/main/src/items.png">
 
-
-#
+## 🛡️<strong>Employee Management System</strong>
 
 <img src = "https://github.com/Randula98/POS-Dragon-Pizza/blob/main/src/employee.png">
 
-
-#
+## 🛡️<strong>Point of Sale (POS)System</strong>
 
 <img src = "https://github.com/Randula98/POS-Dragon-Pizza/blob/main/src/pos.png">
 
-#
+## 🛡️<strong>Bill Printout</strong>
 
 <img src = "https://github.com/Randula98/POS-Dragon-Pizza/blob/main/src/bill.png">
