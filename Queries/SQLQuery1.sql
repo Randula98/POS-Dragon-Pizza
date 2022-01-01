@@ -17,4 +17,4 @@ CREATE TABLE se_tbl_emp(
 
 SELECT * FROM se_tbl_emp;
 
-INSERT INTO se_tbl_emp (id , title , f_name , l_name , age , contact , address , position , password) VALUES (002 ,'Mr.', 'Randula' , 'Mawaththa' , 22 , '071-3861718' , 'Galigamuwa' , 'admin' , 'epic#98' );
+INSERT INTO se_tbl_emp (id , title , f_name , l_name , age , contact , address , position , password) VALUES (002 ,'Mr.', 'Randula' , 'Mawaththa' , 22 , '071-3812415' , 'Galigamuwa' , 'admin' , 'epic#98' );
